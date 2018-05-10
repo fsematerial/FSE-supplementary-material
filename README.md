@@ -7,3 +7,5 @@ statistical results.pptx recorded Demographic Information of 19 Factor Indicator
 success_cutoff.xlsx recorded results of spliting the sample using different threshold in footnote 5.
 
 success_cutoff.ppt recorded reasons for choosing 4% as threshold of successful projects
+
+evidence_about_competitor recorded reasons for choosing proper measures for competitors’ status
